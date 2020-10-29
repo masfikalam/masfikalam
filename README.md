@@ -4,7 +4,7 @@ I'm Masfikul Alam, a self-taught programmer having expertise in modern front-end
 
 ## Skill
  <div>
-  <img src="https://img.shields.io/badge/html%20-%2320232a.svg?&style=for-the-badge&logo=html&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/html%20-%23ff7400.svg?&style=for-the-badge&logo=html&logoColor=orange"/>
   <img src="https://img.shields.io/badge/css%20-%23404d59.svg?&style=for-the-badge&logo=css&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/scss%20-%23563D7C.svg?&style=for-the-badge&logo=scss&logoColor=white"/>
