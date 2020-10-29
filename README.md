@@ -12,7 +12,7 @@ I'm Masfikul Alam, a self-taught programmer having expertise in modern front-end
   <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-%23777BB4.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 ### Catch me on -
