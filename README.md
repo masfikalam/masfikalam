@@ -26,9 +26,6 @@ I'm Masfikul Alam, a self-taught programmer having expertise in modern front-end
  <a href="https://masfikul-alam.web.app">
   <img src="https://img.shields.io/badge/website%20-%236cf468.svg?&style=for-the-badge"/>
  </a>
- <a href="https://www.linkedin.com/in/masfik-alam">
-  <img src="https://img.shields.io/badge/linkedin%20-blue.svg?&style=for-the-badge"/>
- </a>
  <a href="https://drive.google.com/file/d/1BG1LrUw7u8n7tms6yt6wR7W4gWnpipId/view">
   <img src="https://img.shields.io/badge/resume%20-%23f46f68.svg?&style=for-the-badge"/>
  </a>
