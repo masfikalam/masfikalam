@@ -15,10 +15,18 @@ I'm Masfikul Alam, a self-taught programmer having expertise in modern front-end
   <img src="https://img.shields.io/badge/mongodb%20-%2368e563.svg?&style=for-the-badge"/>
 </div>
 
-### Catch me on -
-<a href="https://www.linkedin.com/in/masfik-alam">
- <img src="https://img.shields.io/badge/linkedin%20-blue.svg?&style=for-the-badge"/>
-</a>
-[Linkedin](https://www.linkedin.com/in/masfik-alam)  ||  [Medium](https://medium.com/@masfikalam)  ||  [Website](https://masfikul-alam.web.app)  ||  [Resume](https://drive.google.com/file/d/1BG1LrUw7u8n7tms6yt6wR7W4gWnpipId/view)
-
-Don't ask for my instagram now 😉 
+## Catch me on -
+<div>
+ <a href="https://www.linkedin.com/in/masfik-alam">
+  <img src="https://img.shields.io/badge/linkedin%20-blue.svg?&style=for-the-badge"/>
+ </a> || <a href="https://medium.com/@masfikalam">
+  <img src="https://img.shields.io/badge/medium%20-black.svg?&style=for-the-badge"/>
+ </a> || <a href="https://masfikul-alam.web.app">
+  <img src="https://img.shields.io/badge/website%20-%236cf468.svg?&style=for-the-badge"/>
+ </a> || <a href="https://www.linkedin.com/in/masfik-alam">
+  <img src="https://img.shields.io/badge/linkedin%20-blue.svg?&style=for-the-badge"/>
+ </a> || <a href="https://drive.google.com/file/d/1BG1LrUw7u8n7tms6yt6wR7W4gWnpipId/view">
+  <img src="https://img.shields.io/badge/resume%20-%23f46f68.svg?&style=for-the-badge"/>
+ </a>
+ <small>Don't ask for my instagram now 😉</small>
+</div>
