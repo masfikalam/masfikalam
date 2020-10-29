@@ -5,9 +5,9 @@ I'm Masfikul Alam, a self-taught programmer having expertise in modern front-end
 ## Skill
  <div>
   <img src="https://img.shields.io/badge/html%20-orange.svg?&style=for-the-badge&logo=html&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/css%20-%23404d59.svg?&style=for-the-badge&logo=css&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scss%20-%23563D7C.svg?&style=for-the-badge&logo=scss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css%20-blue.svg?&style=for-the-badge&logo=css&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/bootstrap%20-purple.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scss%20-pink.svg?&style=for-the-badge&logo=scss&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
