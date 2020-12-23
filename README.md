@@ -10,6 +10,7 @@ A self-taught programmer having expertise in modern front-end technologies and a
   <img src="https://img.shields.io/badge/scss%20-%23ffa2f2.svg?&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/javascript%20-%23fdff00.svg?&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/react%20-black.svg?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/typescript%20-blue.svg?&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/node.js%20-%236dc12d.svg?&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/material%20ui%20-%2328ceff.svg?&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/mongodb%20-%2368e563.svg?&style=for-the-badge"/>
