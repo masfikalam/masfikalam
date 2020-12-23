@@ -1,6 +1,6 @@
-## Hey there 👋
+## Masfikul Alam
 
-I'm **Masfikul Alam**, a self-taught programmer having expertise in modern front-end technologies and a deep interest in JavaScript. I love problem solving challenges. I desire to work in the software industry with a good learning environment to grow my skills to the next level. 
+A self-taught programmer having expertise in modern front-end technologies and a deep interest in JavaScript. I love problem solving challenges. I desire to work in the software industry with a good learning environment to grow my skills to the next level. 
 
 ## Skill
  <div>
